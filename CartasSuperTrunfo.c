@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Declaração das variáveis para as duas cartas
+    // Declaração das variáveis para as duas cartas Nivel Novato
     char codigo1[4], codigo2[4];
     int populacao1, populacao2;
     float area1, area2;
